@@ -1,6 +1,6 @@
 # Scaffolding-LNA (Rust)
 
-Mostly vibecoded, so this description below too. See [./thesis.pdf] for details
+Mostly vibecoded, so this description below too. See [thesis.pdf](./thesis.pdf) for details
 
 ---
 
@@ -48,4 +48,3 @@ The output is a JSON array of matches, sorted by score (descending).
 ## Developer Notes
 
 See [DOCS.md](DOCS.md) for architectural details.
-
