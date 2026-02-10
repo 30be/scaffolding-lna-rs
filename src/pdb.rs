@@ -203,7 +203,7 @@ impl Pdb {
                     }
 
                     // Check geometric gap
-                    if dist > 2.5 {
+                    if dist > 2.0 {
                         report.geometric_gaps += 1;
                     }
                 }
